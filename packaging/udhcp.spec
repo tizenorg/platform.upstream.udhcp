@@ -66,6 +66,7 @@ mv %{buildroot}/%{_sbindir}/udhcpd %{buildroot}/%{_bindir}
 %{__rm} -rf $RPM_BUILD_ROOT
 
 %files
+%manifest %{name}.manifest
 %defattr(-,root,root)
 %manifest %{name}.manifest
 %{_bindir}/*
