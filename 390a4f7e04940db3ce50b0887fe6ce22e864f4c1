@@ -1,0 +1,8 @@
+Change-Id: I390a4f7e04940db3ce50b0887fe6ce22e864f4c1
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:38:24 -0700
+Reviewed-on: https://review.tizen.org/gerrit/5010
+Project: platform/upstream/udhcp
+Branch: refs/heads/tizen
